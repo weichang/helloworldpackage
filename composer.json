@@ -1,0 +1,15 @@
+{
+    "name": "jeffrey/helloworld",
+    "authors": [
+        {
+            "name": "Jeffrey",
+            "email": "Jeffrey@cloud-interactive.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jeffrey\\HellWorld\\": "src/"
+        }
+    }
+}
